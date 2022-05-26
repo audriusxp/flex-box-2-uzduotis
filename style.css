@@ -1,0 +1,84 @@
+.antraste{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 65px;
+    background: rgb(155, 155, 18);
+    color: white;
+}
+.mygtukai-juosta{
+    display: flex;
+   justify-content: center;
+   align-content: space-between;
+    width: 100%;
+    height: 60px;
+    background: grey
+   
+}
+
+.mygtukai{
+    display: flex;
+    width: 18%;
+    height: 30px;
+    border: 1px solid beige;
+    margin-top: 12px;
+    background: white;
+    padding-left: 5px;
+    margin-left: 5px;
+
+}
+.prekiu-blokas{
+    display: flex;
+    align-items: center;
+    
+    width: 100%;
+    height: 500px;
+    border: 6px solid rgba(128, 128, 128, 0.445);
+}
+.pirma{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    height: 480px;
+    
+    border: 1px solid black;
+}
+.antra{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    height: 480px;
+    
+    border: 1px solid black;
+
+}
+.trecias{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    height: 480px;
+    
+    border: 1px solid black;
+}
+.mygtukas{
+    display: flex;
+    align-content: flex-end;
+    width: 90%;
+    height: 50px;
+    margin-left: 7px;
+    margin-top: 20px;
+    
+    border: 1px solid black ;
+    background: grey;
+
+}
+.apacia{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    background: rgb(155, 155, 18);
+    color: white;
+
+}
+
