@@ -60,10 +60,8 @@
     background: grey;
 
 }
-.tekstas{
-    display: flex;
-    align-content: space-between;
-}
+
+
 .apacia{
     display: flex;
     justify-content: center;
@@ -85,6 +83,9 @@
     text-decoration:none ;
     text-align: center;
 
+
 }
+   
+
 
 
